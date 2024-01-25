@@ -596,4 +596,11 @@ button {
   .btn2 {
     display: none;
   }
+  section {
+    padding: 70px 5%;
+  }
+
+  .home-text {
+    padding: 30px;
+  }
 }
