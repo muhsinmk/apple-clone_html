@@ -596,11 +596,29 @@ button {
   .btn2 {
     display: none;
   }
+
+  .home {
+    height: auto;
+  }
+
   section {
     padding: 70px 5%;
   }
 
   .home-text {
-    padding: 30px;
+    padding: 35px 0;
+  }
+
+  #menu-icon {
+    font-size: 38px;
+  }
+
+  .nav-icons i {
+    font-size: 28px;
+  }
+
+  .wrapper {
+    grid-template-columns: 1fr;
+    padding: 30px 5% 70px;
   }
 }
